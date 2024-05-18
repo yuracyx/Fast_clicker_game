@@ -1,2 +1,2 @@
-# Fast_clicker_game
-game
+# Fast clicker game
+Click on cards and get points! 5 points - win, but look on time!
